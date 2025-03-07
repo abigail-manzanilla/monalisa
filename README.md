@@ -1,2 +1,0 @@
-# monalisa
-ejemplo de css
